@@ -1,0 +1,36 @@
+
+{
+  "test_name": "Adult ADHD Self-Report Scale (ASRS v1.1)",
+  "questions": [
+    {
+      "question": "How often do you have trouble wrapping up the final details of a project, once the challenging parts have been done?",
+      "type": "multiple_choice",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+    },
+    {
+      "question": "How often do you have difficulty getting things in order when you have to do a task that requires organization?",
+      "type": "multiple_choice",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+    },
+    {
+      "question": "How often do you have problems remembering appointments or obligations?",
+      "type": "multiple_choice",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+    },
+    {
+      "question": "When you have a task that requires a lot of thought, how often do you avoid or delay getting started?",
+      "type": "multiple_choice",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+    },
+    {
+      "question": "How often do you fidget with your hands or feet when you have to sit down for a long time?",
+      "type": "multiple_choice",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+    },
+    {
+      "question": "How often do you feel overly active and compelled to do things, like you were driven by a motor?",
+      "type": "multiple_choice",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Very Often"]
+    }
+  ]
+}

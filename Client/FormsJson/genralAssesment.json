@@ -1,0 +1,132 @@
+{
+  "questions": [
+    {
+      "question": "Have you been feeling down, depressed, or hopeless most of the time lately?",
+      "type": "boolean",
+      "category": "DAS",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    },
+    {
+      "question": "Do you have trouble finding enjoyment or interest in activities you used to enjoy?",
+      "type": "boolean",
+      "category": "DAS",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    },
+    {
+      "question": "Do you find yourself worrying excessively about everyday situations, even when there's no immediate cause for concern?",
+      "type": "boolean",
+      "category": "DAS",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    },
+    {
+      "question": "Do you often feel nervous, anxious, or experience panic attacks, especially in social situations?",
+      "type": "boolean",
+      "category": "DAS",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    },
+    {
+      "question": "Have you noticed any changes in your eating habits or sleep patterns recently?",
+      "type": "boolean",
+      "category": "DAS",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    },
+    {
+      "question": "Do you feel constantly overwhelmed, stressed, or unable to cope with daily demands?",
+      "type": "boolean",
+      "category": "DAS",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    },
+    {
+      "question": "Have you had trouble controlling your emotions, like feeling very angry or upset for no apparent reason?",
+      "type": "scale",
+      "category": "Emotional Dysregulation",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+      "scoreMapping": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "Do you experience frequent mood swings or find it difficult to maintain emotional balance?",
+      "type": "scale",
+      "category": "Emotional Dysregulation",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+      "scoreMapping": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "Do you often feel isolated, disconnected from others, or lonely, even when surrounded by people?",
+      "type": "scale",
+      "category": "DAS",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+      "scoreMapping": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "Do you feel your work or academic performance is negatively affected by burnout or stress?",
+      "type": "scale",
+      "category": "DAS",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+      "scoreMapping": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "Do you struggle with maintaining a positive self-image or frequently criticize yourself?",
+      "type": "scale",
+      "category": "DAS",
+      "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+      "scoreMapping": {
+        "Never": 0,
+        "Rarely": 1,
+        "Sometimes": 2,
+        "Often": 3,
+        "Always": 4
+      }
+    },
+    {
+      "question": "Do you often have difficulty staying focused on tasks or activities?",
+      "type": "boolean",
+      "category": "ADHD",
+      "scoreMapping": {
+        "true": 1,
+        "false": 0
+      }
+    }
+  ]
+}

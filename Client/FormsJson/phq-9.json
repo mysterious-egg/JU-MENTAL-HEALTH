@@ -1,0 +1,51 @@
+{
+    "test_name": "PHQ-9 (Depression Screening)",
+    "questions": [
+      {
+        "question": "Little interest or pleasure in doing things?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Feeling down, depressed, or hopeless?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Trouble falling or staying asleep, or sleeping too much?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Feeling tired or having little energy?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Poor appetite or overeating?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Feeling bad about yourself – or that you are a failure or have let yourself or your family down?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Trouble concentrating on things, such as reading the newspaper or watching television?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Moving or speaking so slowly that other people could have noticed? Or the opposite – being so fidgety or restless that you have been moving around a lot more than usual?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Thoughts that you would be better off dead, or of hurting yourself in some way?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      }
+    ]
+  }
+  

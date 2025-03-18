@@ -1,0 +1,22 @@
+{
+    "test_name": "Emotional Dysregulation Screening",
+    "questions": [
+      {
+        "question": "Do you experience frequent mood swings?",
+        "type": "boolean"
+      },
+      {
+        "question": "Do you find it difficult to control your anger or frustration?",
+        "type": "boolean"
+      },
+      {
+        "question": "Do you feel overwhelmed by your emotions?",
+        "type": "boolean"
+      },
+      {
+        "question": "Do you often have trouble calming down once you are upset?",
+        "type": "boolean"
+      }
+    ]
+  }
+  

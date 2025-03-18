@@ -1,0 +1,41 @@
+{
+    "test_name": "GAD-7 (Anxiety Screening)",
+    "questions": [
+      {
+        "question": "Feeling nervous, anxious, or on edge?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Not being able to stop or control worrying?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Worrying too much about different things?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Trouble relaxing?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Being so restless that it is hard to sit still?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Becoming easily annoyed or irritable?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      },
+      {
+        "question": "Feeling afraid as if something awful might happen?",
+        "type": "scale",
+        "options": ["Not at all", "Several days", "More than half the days", "Nearly every day"]
+      }
+    ]
+  }
+  

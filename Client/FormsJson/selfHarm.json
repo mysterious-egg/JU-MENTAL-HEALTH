@@ -1,0 +1,36 @@
+{
+    "test_name": "Self-Harm or Suicidal Ideation Screening",
+    "questions": [
+      {
+        "question": "In the past week, have you felt a sense of hopelessness or like there's no way out of your current situation?",
+        "type": "scale",
+        "options": ["Never", "Sometimes", "Often", "Always"]
+      },
+      {
+        "question": "Do you often think about life being too difficult to continue, or that things might be better if you weren't here?",
+        "type": "scale",
+        "options": ["Never", "Sometimes", "Often", "Always"]
+      },
+      {
+        "question": "Have you had feelings of being trapped, overwhelmed, or as if you can't escape your situation?",
+        "type": "scale",
+        "options": ["Never", "Sometimes", "Often", "Always"]
+      },
+      {
+        "question": "Do you find yourself avoiding things or people because you feel like you're a burden to them?",
+        "type": "scale",
+        "options": ["Never", "Sometimes", "Often", "Always"]
+      },
+      {
+        "question": "In the past week, have you experienced extreme feelings of anger, frustration, or sadness that were difficult to manage?",
+        "type": "scale",
+        "options": ["Never", "Sometimes", "Often", "Always"]
+      },
+      {
+        "question": "Have you noticed yourself engaging in behaviors like excessive risk-taking or self-destructive actions?",
+        "type": "scale",
+        "options": ["Never", "Sometimes", "Often", "Always"]
+      }
+    ]
+  }
+  
