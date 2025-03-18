@@ -41,7 +41,7 @@ const FinalPage = () => {
     };
 
     try {
-      const response = await fetch(`${apiUrl}submit`, {
+      const response = await fetch(`${apiUrl}/submit`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
